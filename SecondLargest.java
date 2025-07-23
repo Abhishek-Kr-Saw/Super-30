@@ -45,6 +45,7 @@ public class SecondLargest {
         // SC -> 0(n)
     }
 
+
     public static int secondLargestElementInArrayOptimal(int[] arr){
         int n = arr.length;
         int largest = arr[0];
